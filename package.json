@@ -16,7 +16,8 @@
   },
   "devDependencies": {
     "@custom-elements-manifest/analyzer": "^0.10.3",
-    "@web/dev-server": "^0.4.6"
+    "@web/dev-server": "^0.4.6",
+    "semantic-release": "^24.2.3"
   },
   "customElements": "custom-elements.json"
 }
