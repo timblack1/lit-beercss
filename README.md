@@ -1,6 +1,6 @@
 # Purpose
 
-This package provides a LitElement base class which includes Beer CSS styles and a simple example of how to use it.
+This package provides a LitElement base class which includes [Beer CSS](https://www.beercss.com/) styles and a simple example of how to use it.
 
 # Installation
 
