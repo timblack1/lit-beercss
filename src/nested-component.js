@@ -7,6 +7,10 @@ class NestedComponent extends LitElement {
         <input type="text" />
         <label>Nested component input</label>
       </div>
+      <button>
+        <i>home</i>
+        <span>Button</span>
+      </button>
     `;
   }
 }
