@@ -1,8 +1,8 @@
 {
-  "name": "beer-app",
-  "description": "Webcomponent beer-app following open-wc recommendations",
+  "name": "lit-beercss",
+  "description": "lit-beercss LitElement base class using BeerCSS styles",
   "license": "MIT",
-  "author": "beer-app",
+  "author": "lit-beercss",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
