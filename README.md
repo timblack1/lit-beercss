@@ -25,7 +25,7 @@ class MyComponent extends LitElement {
 
 # Demo
 
-To see a demo of this package in action, you can run the following command:
+To see a demo of this package in action, run the following command:
 
 ```bash
 npm run start
