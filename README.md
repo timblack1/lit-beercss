@@ -4,7 +4,7 @@ Want to use [Beer CSS](https://www.beercss.com/) in your LitElement components? 
 
 # Installation
 
-To use this package, you need to install it via npm:
+To install this package, run
 
 ```bash
 npm install lit-beercss
