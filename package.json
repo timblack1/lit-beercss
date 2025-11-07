@@ -5,6 +5,7 @@
   "author": "lit-beercss",
   "version": "0.0.0",
   "type": "module",
+  "main": "./src/lit-beercss.js",
   "scripts": {
     "analyze": "cem analyze --litelement",
     "start": "web-dev-server"
