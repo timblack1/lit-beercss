@@ -41,6 +41,8 @@ import beerCssStyles from "../node_modules/beercss/dist/cdn/beer.min.css" with {
 
 Without this change, a build tool is needed to interpret the bare import as a CSS import. With this change, no build tool is needed in Chrome and Edge in version 93. Support in Firefox and Safari is not yet available. Implementation progress can be tracked at the Gecko bug and WebKit bug, respectively.
 
-https://bugzilla.mozilla.org/show_bug.cgi?id=1720570 https://bugs.webkit.org/show_bug.cgi?id=227967
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import/with#browser_compatibility
+https://bugzilla.mozilla.org/show_bug.cgi?id=1720570
+https://bugs.webkit.org/show_bug.cgi?id=227967
 
-See https://fullystacked.net/import-attributes/ and https://web.dev/articles/css-module-scripts for more detailed explanations.
+See https://web.dev/articles/css-module-scripts for an explanation.
