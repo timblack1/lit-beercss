@@ -29,7 +29,7 @@ import { supportsAdoptingStyleSheets } from 'lit';
 // See https://fullystacked.net/import-attributes/ and https://web.dev/articles/css-module-scripts for more detailed explanations.
 
 // Customized from ../node_modules/beercss/index.js
-import beerCssStyles from "../node_modules/beercss/dist/cdn/beer.min.css" with { type: "css" };
+import beerCssStyles from "beercss/dist/cdn/beer.min.css" with { type: "css" };
 document.adoptedStyleSheets = [beerCssStyles];
 import "material-dynamic-colors";
 import { ui } from "beercss/dist/cdn/beer.min.js";
